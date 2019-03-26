@@ -8,7 +8,6 @@ Original design.(has been deleted)
 Circuit Validation test, problem solving, and initial ideas for some design change. (has been deleted)
 
 ## Stage 3
-Fuk'ya you dumb BJT, you piece of crap and sh@t my whole day to desolder.fk ya BJT I kill your mom.
 * (finishing testing and more ideas on modifying the board design.) 
 * Code has been in the folder. 
 
